@@ -1,5 +1,5 @@
-#Chrome Logo
-Draw chrome logo using python turtle module
+# Chrome Logo
+Draw chrome logo using python turtle module 
 <hr>
 
 ##Screnshot
