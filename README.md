@@ -8,7 +8,7 @@ Python Turtle
 ) [![GitHub issues](https://img.shields.io/github/issues-raw/PythonTurtle/PythonTurtle.svg)](https://github.com/PythonTurtle/PythonTurtle/issues
 ) [![GitHub PRs](https://img.shields.io/github/issues-pr-raw/PythonTurtle/PythonTurtle.svg)](https://github.com/PythonTurtle/PythonTurtle/pulls
 ) [![Python versions](https://img.shields.io/pypi/pyversions/PythonTurtle.svg)](https://pypi.org/project/PythonTurtle/
-) [![MIT license](https://img.shields.io/github/license/PythonTurtle/PythonTurtle.svg)](https://github.com/PythonTurtle/PythonTurtle/blob/master/LICENSE
+) [![MIT license](https://img.shields.io/github/license/PythonTurtle/PythonTurtle.svg)](https://github.com/PythonTurtle/PythonTurtle/blob/master/LICENSE)
 
 
 An educational environment for learning Python, suitable for beginners and children.
